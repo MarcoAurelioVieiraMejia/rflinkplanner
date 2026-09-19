@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "rflinkplanner: An open-source toolkit for RF link-budget and Fresnel-zone clearance planning"
+type: software
+version: 0.1.0
+date-released: 2026-09-19
+license: MIT
+repository-code: "https://github.com/MarcoAurelioVieiraMejia/rflinkplanner"
+authors:
+  - family-names: "Vieira Mejia"
+    given-names: "Marco Aurelio"
+    affiliation: "Ingeomega S.A.S."
+keywords:
+  - radio-frequency
+  - link-budget
+  - fresnel-zone
+  - telecommunications
+  - rural-connectivity
+  - propagation-models
