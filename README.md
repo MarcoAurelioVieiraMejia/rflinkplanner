@@ -6,6 +6,7 @@
 
 *Planning point-to-point wireless links for rural and underserved-area connectivity*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22861090.svg)](https://doi.org/10.5281/zenodo.22861090)
 [![tests](https://github.com/MarcoAurelioVieiraMejia/rflinkplanner/actions/workflows/tests.yml/badge.svg)](https://github.com/MarcoAurelioVieiraMejia/rflinkplanner/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](pyproject.toml)
@@ -112,9 +113,30 @@ Contributions on any of the above are welcome — see
 
 ## Citation
 
-If this software is useful in your work, please cite it using the metadata
-in [`CITATION.cff`](CITATION.cff) (GitHub renders a "Cite this repository"
-button from this file automatically).
+This software is archived on Zenodo with a citable DOI. If it is useful in
+your work, please cite it:
+
+> Vieira Mejía, M. A. (2026). *rflinkplanner: An open-source toolkit for
+> RF link-budget and Fresnel-zone clearance planning* (v0.1.0). Zenodo.
+> https://doi.org/10.5281/zenodo.22861090
+
+BibTeX:
+
+```bibtex
+@software{vieiramejia_rflinkplanner_2026,
+  author    = {Vieira Mejía, Marco Aurelio},
+  title      = {rflinkplanner: An open-source toolkit for RF link-budget
+               and Fresnel-zone clearance planning},
+  year       = {2026},
+  version    = {v0.1.0},
+  publisher = {Zenodo},
+  doi        = {10.5281/zenodo.22861090},
+  url        = {https://doi.org/10.5281/zenodo.22861090}
+}
+```
+
+Machine-readable metadata is also provided in [`CITATION.cff`](CITATION.cff),
+from which GitHub renders a "Cite this repository" button automatically.
 
 ## License
 
